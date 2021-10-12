@@ -1,0 +1,3 @@
+rootProject.name = 'algorithm-note'
+include 'illustration-of-algorithm'
+
